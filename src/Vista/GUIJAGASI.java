@@ -52,7 +52,7 @@ public class GUIJAGASI extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Ubuntu", 1, 14)); // NOI18N
         jLabel3.setText("COMPARTIR");
 
-        jLabel4.setText("sjfvbjsdbvfga");
+        jLabel4.setText("Andrey lol men ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
